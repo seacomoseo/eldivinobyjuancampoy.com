@@ -1,14 +1,14 @@
-baseURL: ''
+baseURL: https://eldivinobycosafina.com
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/eldivinobycosafina.com
+  netlify_name: eldivinobycosafina
+  netlify_id: 6a0ca78d-333a-42f3-b6b7-6d570b545e88
+  hook: NjYxN2Q1ZTk4ZTRiMWY5MDg2YzdmOTFhCg==
+  drive_link: https://drive.google.com/file/d/1QFFB1Ow7kZ0_p6eme3onbsyAAs4CkIkN
+  drive_mails: eldivinobycosafina@gmail.com
 defaultContentLanguage: es
 disableLanguages: [en]
 languages:
