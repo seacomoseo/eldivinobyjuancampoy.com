@@ -5,7 +5,7 @@
   @mixin show-from($delay) {
     animation: show-from .5s (.25 + .125s * $delay) both;
   }
-  #logo-o {               @include show-from(0); --show-from: scale(2); transform-origin: center; transform-box: fill-box; }
+  #logo-o {               @include show-from(0); --show-from: scale(3); transform-origin: center; transform-box: fill-box; }
   #logo-divino {          @include show-from(1); }
   #logo-cosafina {        @include show-from(2); }
   #logo-restaurante {     @include show-from(3); }
