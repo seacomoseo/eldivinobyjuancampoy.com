@@ -1,13 +1,18 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-image: logo.svg
-color: main-dark
+anchor: El Divino by Cosafina Gastrobar - Restaurante en Orihuela
 bg: fondo.jpg
-description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  [btn icon-plus Más](#principal)
+size: md
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
+rows:
+- type: columns
+  design:
+    gap: 5
+    align_y: center
+  items:
+  - image: logo-tr.svg
+    description: |
+      La calidad y el buen servicio directo a la mesa
+
+      [btn Reserva](#contacto)
+  - image: https://youtu.be/t8wAq6B74p4?list=PL8hWc-JrknSorwsRcpBLvkfKTgKcobTbH#poster=poster.jpg
+    ratio: 9x16

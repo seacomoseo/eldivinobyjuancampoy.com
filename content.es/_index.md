@@ -1,8 +1,8 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: El Divino by Cosafina Gastrobar - Restaurante en Orihuela
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ Nuestro restaurante cuenta con una carta estudiada al milímetro para sacar todo el potencial de cada producto que utilizamos ✅ ¡Prueba y repetirás!
 image: fondo.jpg
 draft: false
 noindex: false
@@ -10,13 +10,8 @@ translationKey: home
 sections:
 - file: header
 - file: nosotros
-- file: servicios
-  modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
+- file: galeria
+- file: carta
 - file: resenas
 - file: contacto
 ---

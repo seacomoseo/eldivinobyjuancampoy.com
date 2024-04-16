@@ -1,35 +1,21 @@
 title: Nosotros
-subtitle: Lorem ipsum dolor sit amet
-icon: circle-info
+subtitle: restaurante gastrobar
 rows:
 - type: columns
   design:
     num: 2
+    gap: 3
+    align: left
+    # align_y: center
   items:
-  - order: 2
-    bg: fondo.jpg
-  - order: 1
-    description: |
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+  - image: nosotros.jpg
+  - description: |
+      El Divino by Cosafina es un lugar del que no te irás sin probar sabores nuevos y con un toque muy especial.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Nuestro restaurante cuenta con una carta estudiada al milímetro para sacar todo el potencial de cada producto que utilizamos.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Vivirás una experiencia única ya que Juan Campoy explica y sirve cada uno de los platos con cariño y devoción.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
-    more:
-      align: left
-      align_xl: right
-      align_y: center
+      ¡No te puedes perder esta experiencia!
+
+      ¡Prueba y repetirás!

@@ -16,5 +16,7 @@ langs_in_more: false
 langs_out: true
 callnow_active: true
 callnow_buttons: []
-normal: []
+normal:
+- label: by Cosafina
+  link: http://www.cosafinagastrobar.com/
 more: []

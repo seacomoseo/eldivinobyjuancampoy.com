@@ -1,16 +1,17 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: El Divino by Cosafina
+description: Nuestro restaurante cuenta con una carta estudiada al milímetro para sacar todo el potencial de cada producto que utilizamos. ¡Prueba y repetirás!
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
-legal_email: ''
-legal_location: ''
+legal_name: Juan Antonio Campoy Sánchez
+legal_dni: 48390081J
+legal_email: eldivinobycosafina@gmail.com
+legal_location: Calle Oriolanos Ausentes, 23 03300 Orihuela (Alicante)
 country: España
 location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- El Divino
+- El Divino by Cosafina Gastrobar
 price_range: €€
 google_analytics: G-EBEVQJ5PNF
 google_site_verification: ''
@@ -35,12 +36,8 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+- link: https://www.instagram.com/eldivino.by.cosafina/
+- link: https://www.facebook.com/ElDivinobyCosafina
+- link: https://www.youtube.com/@eldivinobycosafina
+- link: https://g.page/webmurcia
 
