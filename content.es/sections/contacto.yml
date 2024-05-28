@@ -28,9 +28,9 @@ rows:
     full: true
   - type: address
     active: true
-    name: El Divino by Cosafina
+    name: Divino Gastro Bar
     streetAddress: Calle Oriolanos Ausentes, 23
-    postalCode: 03300
+    postalCode: '03300'
     addressLocality: Orihuela
     addressRegion: Alicante
     addressCountry: España
