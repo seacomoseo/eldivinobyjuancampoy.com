@@ -1,3 +1,3 @@
-# eldivinobycosafina.com
+# eldivinobyjuancampoy.com
 
-[![eldivinobycosafina.com](/assets/media/logo.png)](https://eldivinobycosafina.com/)
+[![eldivinobyjuancampoy.com](/assets/media/logo.png)](https://eldivinobyjuancampoy.com/)
