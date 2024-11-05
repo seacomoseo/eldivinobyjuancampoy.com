@@ -11,23 +11,23 @@ fonts:
     italic: false
     line-height: 1.25
   cursive:
-    family: Italianno
-    weight: 400
+    family: Josefin Sans
+    weight: 300
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Adelina
-    weight: 400
+    family: Montserrat
+    weight: 800
     strong: 0
     italic: false
     line-height: 1.25
-    top: .125
+    top: 0
   blockquote_cursive: true
 colors:
   main:
-    color: '#800d50'
+    color: '#7f0d4e'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -45,8 +45,8 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
-    black: '#000'
+    dark: '#373737'
+    black: '#282525'
 rounded:
   radius: 1.33
   chamfer: false

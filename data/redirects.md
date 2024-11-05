@@ -1,2 +1,9 @@
-# comentario
-/qr /
+# 2024-11-05
+http://www.eldivinobycosafina.com/* https://eldivinobyjuancampoy.com/:splat
+http://eldivinobycosafina.com/* https://eldivinobyjuancampoy.com/:splat
+https://www.eldivinobycosafina.com/* https://eldivinobyjuancampoy.com/:splat
+https://eldivinobycosafina.com/* https://eldivinobyjuancampoy.com/:splat
+http://www.eldivinobycosafina.com/ https://eldivinobyjuancampoy.com/
+http://eldivinobycosafina.com/ https://eldivinobyjuancampoy.com/
+https://www.eldivinobycosafina.com/ https://eldivinobyjuancampoy.com/
+https://eldivinobycosafina.com/ https://eldivinobyjuancampoy.com/

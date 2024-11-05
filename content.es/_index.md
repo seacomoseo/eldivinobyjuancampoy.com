@@ -1,9 +1,9 @@
 ---
 title: Inicio
-title_seo: El Divino by Cosafina Gastrobar - Restaurante en Orihuela
+title_seo: El Divino by Juan Campoy Gastrobar - Restaurante en Orihuela
 slug: inicio
 description: llll➤ Nuestro restaurante cuenta con una carta estudiada al milímetro para sacar todo el potencial de cada producto que utilizamos ✅ ¡Prueba y repetirás!
-image: nosotros.jpg
+image: logo.png
 draft: false
 noindex: false
 translationKey: home

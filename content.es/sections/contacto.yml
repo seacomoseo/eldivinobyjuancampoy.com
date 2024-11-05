@@ -1,5 +1,5 @@
 title: Contacto
-subtitle: reserva ya mismo
+subtitle: Reserva ya mismo
 button: link
 size: sm
 rows:
@@ -28,7 +28,7 @@ rows:
     full: true
   - type: address
     active: true
-    name: Divino Gastro Bar
+    name: El divino by Cosafina
     streetAddress: Calle Oriolanos Ausentes, 23
     postalCode: '03300'
     addressLocality: Orihuela

@@ -1,15 +1,14 @@
+.subtitle {
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+
 #body-inicio #header {
-  .image path:not([fill]) {
-    fill: var(--text);
-  }
   @mixin show-from($delay) {
-    animation: show-from .5s (.25 + .125s * $delay) both;
+    animation: show-from .5s (.125 + .125s * $delay) both;
   }
-  #logo-o {               @include show-from(0); --show-from: scale(3); transform-origin: center; transform-box: fill-box; }
-  #logo-divino {          @include show-from(1); }
-  #logo-cosafina {        @include show-from(2); }
-  #logo-restaurante {     @include show-from(3); }
-  .description p {        @include show-from(4); }
-  .description .buttons { @include show-from(5); }
-  .column--item-2 {       @include show-from(6); }
+  .image {                @include show-from(0); }
+  .description p {        @include show-from(1); }
+  .description .buttons { @include show-from(2); }
+  .column--item-2 {       @include show-from(3); }
 }
