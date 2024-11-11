@@ -1,0 +1,172 @@
+name: Resenas
+title: Reseñas
+subtitle: Dicen de nosotros…
+boxes:
+- review:
+    color: white
+    slider: true
+    interval: 8
+    columns: 3
+  reviews:
+  - title: Rocio
+    content: |
+      Día festivo en Orihuela, local a rebosar y sin embargo nos aceptaron reserva a las 15:30.
+
+      Teníamos las expectativas altas porque conocemos su local en Murcia, pero sin duda las han superado con creces.
+
+      Servicio excelente y la comida espectacular, repetiremos muy pronto.
+
+      Relación calidad-precio muy buena.
+
+      Hacia falta un sitio así por esta zona.
+
+      Por cierto no os olvidéis de pedir la torrija.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWStY-Mm42F4ro0qtILlCbFD6l1Gb-qZtBzQfEHLB2CpGGM_tAQjg=s136
+  - title: Jose A.
+    content: |
+      Mi experiencia gastronómica en El Divino ha sido realmente excepcional.
+
+      Desde el momento en que entramos, el ambiente acogedor y el atento personal nos hicieron sentir como en casa.
+
+      El menú ofrecía una deliciosa variedad de platos, todos ellos elaborados con ingredientes frescos y de alta calidad.
+
+      Cada bocado fue una delicia culinaria, y no puedo esperar a volver a El Divino para explorar más de sus deliciosas creaciones.
+
+      Si busca una experiencia gastronómica fenomenal, no busque más allá.
+
+      Sus platos una obra maestra culinaria, que ofrece una increíble selección de platos que se adaptan a diversos gustos y preferencias.
+
+      Juan Antonio Campoy nunca me ha decepcionado - es realmente un destino de visita obligada para cualquier amante de la comida.
+
+      Muy recomendable.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjXUexOUOc0VE9I9JNELM3YP89GIYibfix4Aw5JyM09yvpGTr6Zt=s136
+  - title: Carolina B.
+    content: |
+      Increíble local, deliciosa comida y un servicio de 10! Gracias por tratarnos así de bien.
+
+      Totalmente recomendable!
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocJqoWdTDCwbxBgttLI8xSoILOWGbDninGScESp4Ysb4BSOU6g=s136
+  - title: Sara S.
+    content: |
+      Lo visitamos por una recomendación y la experiencia fue increíble.
+
+      La comida buenísima, cocina típica murciana.
+
+      El
+      servicio y calidad de 10.
+
+      Personal muy amable y atento.
+
+      El dueño, una persona muy cercana, amable y simpático.
+
+      Volvimos con mis suegros porque queríamos llevarlos a un sitio especial y se quedaron impresionados.
+
+      Que os vaya muy bien y volveremos pronto.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjU1u9TDRH0W4wKOtjogA7H-vfJwq3cZM-OMoq6gB0nRYOex78hK=s136
+  - title: Criss F.
+    content: |
+      Todo perfecto,  nos han tratado muy bien y la comida muy buena, Juan nos lo ha explicado todo perfectamente
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWwNdyvqhvTotsEMY5y7ZL_lqrE0XnbmFS-n9ZyhqwcS7lMdR0=s136
+  - title: Misterminola
+    content: |
+      Muy buen producto para una carta con propuestas innovadoras y otras que aportan un giro a platos de la zona.
+
+      A destacar el servicio, que te acompaña a lo largo de la cena aconsejándote o describiendo los platos.
+
+      Volveremos.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWVwibukMVgNXtpxrkraX5UkJqskjuGgxuptZH_yjsWaRsYL9ip=s136
+  - title: Paqui M.
+    content: |
+      Magnífico.
+
+      Local elegante y acogedor, buen servicio, sin esperas largas entre platos pero sobre todo comida exquisita.
+
+      Alta cocina moderna y deliciosa.
+
+      Ultimamente he estado en locales económicos donde pueden cenar a base de marisco dos personas por alrededor de 50 euros.
+
+      Aqui fueron unos 30 más, pero la calidad y la experiencia merecían eso y mucho más.
+
+      Repetiremos.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocK0Sz0GYHDytrK4jJIAVxbk61GtCX9fLN74gV2jZnxeJijw2g=s136
+  - title: Miguel G.
+    content: |
+      Magnífica la comida.
+
+      Excelente el trato por parte de los trabajadores.
+
+      Un 10
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocJfD5c889L9Y4pPOmHDsx9NXj2jeWaCmC1n4K-ShcLSK3D4hA=s136
+  - title: Ana P.
+    content: |
+      Comida rica y trato amable.
+
+      Mientras decidíamos que pedir y venía la comida, el camarero nos invitó a dos tapas.
+
+      La ensalada crujiente con gambas estaba muy buena, y la combinación del tartar y las salsas del plato era completamente espectacular.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjVI68ZiGcIWKfyGdF17D53BdKloKE6HJY62U7LUV3E9rZzSa-Yw=s136
+  - title: Antonio L.
+    content: |
+      Teníamos ganas de probar este restaurante, ya que hemos ido a los que tienen en la zona de Murcia y nunca defraudan.
+
+      Queríamos comprobar si la apuesta por Orihuela merecía la pena.
+
+      Ocho comensales en mesa conocedores de la profesión ( los hosteleros en otro local nos volvemos tikismikis), y la verdad, dicho por todos, es que este local tiene todos los ingredientes para triunfar.
+
+      El personal varía en edad, en una horquilla de entre 18 y 50 años, lo cual es de agradecer, ver a gente veterana que te atiende con la misma ilusión que seguramente cuando empezó.
+
+      El maestro de ceremonias nos atendió personalmente, ( preguntando al inicio por posibles intolerancias o alergias, para poner un plato u otro) y nos relataba plato por plato su composición y elaboración.
+
+      Ese servicio está a la altura de muy pocos.
+
+      Me pondría a contar cosas de los platos y sus sabores, pero prefiero que vayan ustedes y juzguen, y así me ahorro decir lo bueno y espectacular que está todo.
+
+      Detalle para el personal de barra, especialmente a un joven elegante llamado Jose Antonio, su servicio también fue impecable.
+
+      Para terminar, decir que espero que Orihuela le dé el valor que tiene este restaurante, porque sumado a otros tantos buenos que tenemos en la ciudad, podamos atraer a nuestros vecinos de alrededores.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocLT4Y5iPq2HmHTta0pqLIES53ImHUSeixzCCP8KDLQv9uAPnA=s136
+  - title: Olgamar P.
+    content: |
+      Un sitio de 10.
+
+      La atención, la comida, el servicio, todo excelente, incluso el precio, ni caro ni barato.
+
+      Era nuestra primera vez y seguro que repetiremos.
+
+      Recomendable 100℅
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWuFbPq7vcrA1dLEmncA6h_hyUovsHD7CZdnK12TsRr9czWmE7Y=s136
+  - title: María P.
+    content: |
+      Espectacular! La comida,  el servicios y el precio.
+
+      Ya llevamos unas cuantas visitas, y seguiremos repitiendo.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocKBbsKwFzUA6gxTemFVs_hlmB3AQvh87FQ3mYWzkU8G4llF1w=s136
+  - title: Ruben H.
+    content: |
+      Muy buen restaurante con una muy buena cocina y productos de primerísima calidad.
+
+      Fácil aparcamiento, local pequeño pero muy acogedor, probad cualquiera de sus arroces.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjVOZ_hxOQ7Me4WGvFFFlUw4yeX4gQtMwrzvVK0Yp_fSvLIaXMeVkg=s136
+  - title: Javier N.
+    content: |
+      Excelente cocina, muy recomendable, servicio rápido y eficiente, los camareros muy atentos en todo momento.
+
+      Volveremos a repetir seguro
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocJgl48ENzBmLeN1go0BiuACYggkGAdA0Iuu1Sx_ifaHp3E2HQ=s136
+- boxes:
+  - content: |
+      [btn Más reseñas](https://g.page/r/CejOSNCzSc0TEBM/review "noindex")

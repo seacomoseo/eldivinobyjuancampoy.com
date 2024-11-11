@@ -1,5 +1,4 @@
 baseURL: https://eldivinobyjuancampoy.com
-Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -9,27 +8,3 @@ params:
   hook: NjYxN2Q1ZTk4ZTRiMWY5MDg2YzdmOTFhCg==
   drive_link: https://drive.google.com/file/d/1QFFB1Ow7kZ0_p6eme3onbsyAAs4CkIkN
   drive_mails: eldivinobyjuancampoy@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en,fr]
-languages:
-  es:
-    paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: personalizadas

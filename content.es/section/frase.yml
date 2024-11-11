@@ -1,4 +1,5 @@
-anchor: Frase
-description: |
+name: Frase
+content: |
   > La calidad y el buen servicio directo a la mesa
   {.h1}
+hanchor: Frase

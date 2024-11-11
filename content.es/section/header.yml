@@ -1,0 +1,18 @@
+name: Header
+bg: fondo.jpg
+size: md
+full: true
+hanchor: El Divino by Juan Campoy Gastrobar - Restaurante en Orihuela
+box:
+  columns: 0
+  gap: 5
+  align_y: center
+boxes:
+- image: base/logo-tr.svg
+  content: |
+    La calidad y el buen servicio directo a la mesa
+
+    [btn Reserva](#contacto)
+  span: 1.5
+- image: https://youtu.be/t8wAq6B74p4?list=PL8hWc-JrknSorwsRcpBLvkfKTgKcobTbH#poster=poster.jpg
+  ratio: 9/16

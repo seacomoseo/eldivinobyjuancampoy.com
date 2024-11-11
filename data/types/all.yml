@@ -1,0 +1,44 @@
+title: Todas
+template:
+  toc: true
+  background:
+    color: light
+  menu:
+    hide: true
+    logo: true
+    logo_align: left
+    transparent: true
+    size: sm
+    es:
+      image: base/logo-tr.svg
+    sticky: auto
+    color: white
+    show_sections: false
+  callnow:
+    show: auto
+    es: []
+  section:
+  - size: sm
+  modal: {}
+  sections:
+  - file: base/_header
+  - file: base/toc
+  - file: base/content
+  - file: base/address
+  - file: base/author
+  - file: base/social
+  - file: base/comments
+  - file: base/children
+  - file: base/share
+  - file: base/related
+  list:
+    columns: 3
+    color: white
+    decline: true
+    inset: true
+    ratio: 16/9
+    icon: hide
+    align: left
+    button: hide
+  related:
+    slider: true
