@@ -12,7 +12,7 @@ sections:
 - file: nosotros
 - file: galeria
 - file: carta
-- file: frase
-# - file: resenas
+# - file: frase
+- file: resenas
 - file: contacto
 ---

@@ -28,7 +28,7 @@ rows:
     full: true
   - type: address
     active: true
-    name: El divino by Cosafina
+    name: El Divino by Juan Campoy Gastrobar
     streetAddress: Calle Oriolanos Ausentes, 23
     postalCode: '03300'
     addressLocality: Orihuela
@@ -52,4 +52,4 @@ rows:
       required: true
   map:
     active: true
-    # link: https://g.page/webmurcia
+    link: https://g.page/r/CejOSNCzSc0TEBM
