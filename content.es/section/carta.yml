@@ -10,9 +10,10 @@ box:
   licon: file-pdf
   label: Ver
 boxes:
-- title: Platos
-  icon: plate-utensils
-  link: pdf/carta-platos.pdf
-- title: Vinos
-  icon: wine-glass
-  link: pdf/carta-vinos.pdf
+- content: Próximamente...
+# - title: Platos
+#   icon: plate-utensils
+#   link: pdf/carta-platos.pdf
+# - title: Vinos
+#   icon: wine-glass
+#   link: pdf/carta-vinos.pdf

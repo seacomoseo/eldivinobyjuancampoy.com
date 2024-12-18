@@ -10,7 +10,7 @@ template:
     transparent: true
     size: sm
     es:
-      image: base/logo-tr.svg
+      image: base/logo.svg
     sticky: auto
     color: white
     show_sections: false

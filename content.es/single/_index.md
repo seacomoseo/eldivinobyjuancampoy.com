@@ -3,7 +3,7 @@ title: Inicio
 seo: El Divino by Juan Campoy Gastrobar - Restaurante en Orihuela
 slug: inicio
 description: llll➤ Nuestro restaurante cuenta con una carta estudiada al milímetro para sacar todo el potencial de cada producto que utilizamos ✅ ¡Prueba y repetirás!
-image: base/logo.png
+image: base/poster.png
 draft: false
 noindex: false
 translationKey: home
@@ -29,7 +29,7 @@ summary: Nuestro restaurante cuenta con una carta estudiada al milímetro para s
 legal: Juan Antonio Campoy Sánchez
 nif: 48390081J
 email: eldivinobyjuancampoy@gmail.com
-logo: base/logo.png
+logo: base/poster.png
 images:
 - poster.jpg
 - el.jpg

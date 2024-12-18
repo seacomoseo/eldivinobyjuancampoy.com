@@ -8,7 +8,7 @@ box:
   gap: 5
   align_y: center
 boxes:
-- image: base/logo-tr.svg
+- image: base/logo.svg
   content: |
     La calidad y el buen servicio directo a la mesa
 
