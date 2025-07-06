@@ -4,6 +4,7 @@ menu_button: hide
 ph: true
 size: fluid
 rate: 3/1
-map:
+color: white
+geos:
 - type: point
   geo: '{"type":"Point","coordinates":[-0.9494926,38.0769095]}'

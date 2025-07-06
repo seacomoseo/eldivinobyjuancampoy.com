@@ -2,7 +2,7 @@ name: Galeria
 title: La Experiencia
 subtitle: Calidad y buen servicio
 gallery:
-  columns: 3
+  cols: 3
   ratio: 1/1
   button: hide
 images:

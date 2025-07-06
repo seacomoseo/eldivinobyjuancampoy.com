@@ -1,30 +1,36 @@
 icons:
   type: light
   sharp: false
-  emojis: ''
-  emojis_default: false
+  emojis: false
+  play: play-iframe
+  up: ''
+  down: ''
+  left: ''
+  right: ''
 fonts:
-  google: true
   base:
+    google: true
     family: Lato
     weight: 300
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
   cursive:
+    google: true
     family: Josefin Sans
     weight: 300
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
     size: 1.8
     top: 0
   title:
+    google: true
     family: Montserrat
     weight: 800
     bold: 0
     italic: false
-    line-height: 1.25
+    line_height: 1.25
     size: 1
     top: 0
   blockquote_cursive: true
@@ -33,21 +39,30 @@ colors:
     color: '#7f0d4e'
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   alt:
     color: ''
     light: ''
     dark: ''
-    contrast: all
-  link:
+    contrast:
+      fill: true
+      in: true
+      text: true
+  cta:
     color: ''
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   base:
     white: '#fff'
     light: '#eee'
-    grey: '#767676'
+    gray: '#767676'
     dark: '#373737'
     black: '#282525'
 rounded:
@@ -58,14 +73,14 @@ buttons:
   dot_circle: false
   deep: false
   outline: true
-  font_main:
+  font:
     type: title
     bold: false
-    uppercase: true
-  font_alt:
+    caps: true
+  swap:
     type: base
     bold: false
-    uppercase: false
+    caps: false
 inputs:
   fill: false
   labels_out: false
@@ -75,5 +90,3 @@ shadow:
   blur: 0
   color: black
   alpha: 0.85
-performance:
-  show: true

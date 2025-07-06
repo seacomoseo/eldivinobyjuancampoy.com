@@ -5,11 +5,11 @@ boxes:
 - review:
     color: white
     slider: true
-    interval: 8
-    columns: 3
+    time: 8
+    cols: 3
   reviews:
   - title: Rocio
-    content: |
+    md: |
       Día festivo en Orihuela, local a rebosar y sin embargo nos aceptaron reserva a las 15:30.
 
       Teníamos las expectativas altas porque conocemos su local en Murcia, pero sin duda las han superado con creces.
@@ -24,7 +24,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjWStY-Mm42F4ro0qtILlCbFD6l1Gb-qZtBzQfEHLB2CpGGM_tAQjg=s136
   - title: Jose A.
-    content: |
+    md: |
       Mi experiencia gastronómica en El Divino ha sido realmente excepcional.
 
       Desde el momento en que entramos, el ambiente acogedor y el atento personal nos hicieron sentir como en casa.
@@ -43,14 +43,14 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjXUexOUOc0VE9I9JNELM3YP89GIYibfix4Aw5JyM09yvpGTr6Zt=s136
   - title: Carolina B.
-    content: |
+    md: |
       Increíble local, deliciosa comida y un servicio de 10! Gracias por tratarnos así de bien.
 
       Totalmente recomendable!
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocJqoWdTDCwbxBgttLI8xSoILOWGbDninGScESp4Ysb4BSOU6g=s136
   - title: Sara S.
-    content: |
+    md: |
       Lo visitamos por una recomendación y la experiencia fue increíble.
 
       La comida buenísima, cocina típica murciana.
@@ -68,12 +68,12 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjU1u9TDRH0W4wKOtjogA7H-vfJwq3cZM-OMoq6gB0nRYOex78hK=s136
   - title: Criss F.
-    content: |
+    md: |
       Todo perfecto,  nos han tratado muy bien y la comida muy buena, Juan nos lo ha explicado todo perfectamente
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjWwNdyvqhvTotsEMY5y7ZL_lqrE0XnbmFS-n9ZyhqwcS7lMdR0=s136
   - title: Misterminola
-    content: |
+    md: |
       Muy buen producto para una carta con propuestas innovadoras y otras que aportan un giro a platos de la zona.
 
       A destacar el servicio, que te acompaña a lo largo de la cena aconsejándote o describiendo los platos.
@@ -82,7 +82,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjWVwibukMVgNXtpxrkraX5UkJqskjuGgxuptZH_yjsWaRsYL9ip=s136
   - title: Paqui M.
-    content: |
+    md: |
       Magnífico.
 
       Local elegante y acogedor, buen servicio, sin esperas largas entre platos pero sobre todo comida exquisita.
@@ -97,7 +97,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocK0Sz0GYHDytrK4jJIAVxbk61GtCX9fLN74gV2jZnxeJijw2g=s136
   - title: Miguel G.
-    content: |
+    md: |
       Magnífica la comida.
 
       Excelente el trato por parte de los trabajadores.
@@ -106,7 +106,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocJfD5c889L9Y4pPOmHDsx9NXj2jeWaCmC1n4K-ShcLSK3D4hA=s136
   - title: Ana P.
-    content: |
+    md: |
       Comida rica y trato amable.
 
       Mientras decidíamos que pedir y venía la comida, el camarero nos invitó a dos tapas.
@@ -115,7 +115,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjVI68ZiGcIWKfyGdF17D53BdKloKE6HJY62U7LUV3E9rZzSa-Yw=s136
   - title: Antonio L.
-    content: |
+    md: |
       Teníamos ganas de probar este restaurante, ya que hemos ido a los que tienen en la zona de Murcia y nunca defraudan.
 
       Queríamos comprobar si la apuesta por Orihuela merecía la pena.
@@ -136,7 +136,7 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocLT4Y5iPq2HmHTta0pqLIES53ImHUSeixzCCP8KDLQv9uAPnA=s136
   - title: Olgamar P.
-    content: |
+    md: |
       Un sitio de 10.
 
       La atención, la comida, el servicio, todo excelente, incluso el precio, ni caro ni barato.
@@ -147,26 +147,26 @@ boxes:
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjWuFbPq7vcrA1dLEmncA6h_hyUovsHD7CZdnK12TsRr9czWmE7Y=s136
   - title: María P.
-    content: |
+    md: |
       Espectacular! La comida,  el servicios y el precio.
 
       Ya llevamos unas cuantas visitas, y seguiremos repitiendo.
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocKBbsKwFzUA6gxTemFVs_hlmB3AQvh87FQ3mYWzkU8G4llF1w=s136
   - title: Ruben H.
-    content: |
+    md: |
       Muy buen restaurante con una muy buena cocina y productos de primerísima calidad.
 
       Fácil aparcamiento, local pequeño pero muy acogedor, probad cualquiera de sus arroces.
     rating: 5
     image: https://lh3.googleusercontent.com/a-/ALV-UjVOZ_hxOQ7Me4WGvFFFlUw4yeX4gQtMwrzvVK0Yp_fSvLIaXMeVkg=s136
   - title: Javier N.
-    content: |
+    md: |
       Excelente cocina, muy recomendable, servicio rápido y eficiente, los camareros muy atentos en todo momento.
 
       Volveremos a repetir seguro
     rating: 5
     image: https://lh3.googleusercontent.com/a/ACg8ocJgl48ENzBmLeN1go0BiuACYggkGAdA0Iuu1Sx_ifaHp3E2HQ=s136
 - boxes:
-  - content: |
-      [btn Más reseñas](https://g.page/r/CejOSNCzSc0TEBM/review "noindex")
+  - md: |
+      [[Más reseñas]](https://g.page/r/CejOSNCzSc0TEBM/review "[nofollow]")

@@ -7,8 +7,8 @@
   @mixin show-from($delay) {
     animation: show-from .5s (.125 + .125s * $delay) both;
   }
-  .image            { @include show-from(0); }
-  .content p        { @include show-from(1); }
-  .content .buttons { @include show-from(2); }
-  .box--2           { @include show-from(3); }
+  .image       { @include show-from(0); }
+  .md p        { @include show-from(1); }
+  .md .buttons { @include show-from(2); }
+  .box--2      { @include show-from(3); }
 }

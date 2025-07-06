@@ -3,14 +3,14 @@ title: Carta
 subtitle: Platos y vinos
 size: sm
 box:
-  columns_min: 2
+  cols_vs: 2
   hs: 3
-  uppercase: true
-  underline: true
-  licon: file-pdf
+  caps: true
+  line: true
+  pin: file-pdf
   label: Ver
 boxes:
-- content: Próximamente...
+- md: Próximamente...
 # - title: Platos
 #   icon: plate-utensils
 #   link: pdf/carta-platos.pdf

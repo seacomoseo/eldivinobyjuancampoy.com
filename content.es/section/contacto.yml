@@ -2,7 +2,7 @@ name: Contacto
 title: Contacto
 subtitle: Reserva ya mismo
 size: sm
-menu_button: link
+menu_button: cta
 form:
   fill_inputs: false
 contact:
@@ -22,7 +22,7 @@ contact:
   label: 635 159 199
 - type: whatsapp
   label: 635 159 199
-  button: link
+  button: cta
 - type: mail
   label: eldivinobyjuancampoy@gmail.com
   full: true
